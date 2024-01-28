@@ -37,3 +37,7 @@ function consultarCEP(cep) {
         });
 
 }
+
+
+// limpa os campos com o removechild
+//qnd tem 8 caracteres, automaticamente aciona a funcao consultarCEP
